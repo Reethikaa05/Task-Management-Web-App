@@ -1,0 +1,1 @@
+# Task Glitch — Fixed (SDE Assignment Submission)\n\nThis repository is a fixed and improved version of the Task Glitch app.\n

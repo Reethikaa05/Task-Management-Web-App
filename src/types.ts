@@ -1,0 +1,1 @@
+export enum Priority{High='High',Medium='Medium',Low='Low'}export type Task={id:number;title:string;revenue:number;timeTaken:number;notes:string;priority:Priority;status:'todo'|'inprogress'|'done';createdAt:number;}

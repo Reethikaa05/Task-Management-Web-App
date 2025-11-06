@@ -1,0 +1,1 @@
+import React from 'react';import { Task } from '../types';import TaskRow from './TaskRow';type Props={tasks:Task[];onView:(t:Task)=>void;onEdit:(t:Task)=>void;onDelete:(t:Task)=>void};export default function TaskList({tasks,onView,onEdit,onDelete}:Props){return <div>{tasks.map(t=> <TaskRow key={t.id} task={t} onView={onView} onEdit={onEdit} onDelete={onDelete} />)}</div>}
