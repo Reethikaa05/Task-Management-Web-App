@@ -1,5 +1,4 @@
-# 🚀 Task Glitch — Fixed & Enhanced (SDE Assignment Submission)
-
+# 🚀 Task Glitch — Fixed & Enhanced 
 This repository contains the **debugged, optimized, and production-ready version** of the **Task Glitch App**, originally built for tracking, managing, and prioritizing tasks based on ROI (Return on Investment).
 
 🛠️ **Challenge Overview:**  
